@@ -31,7 +31,7 @@
             padding: 15px;
             border: 1px solid #984a12;
             border-radius: 5px;
-            background-color: #eee6ed;
+            background-color: white;
             color: #ffc69d;
         }
         button {
@@ -177,10 +177,10 @@
         <div class="question">
             <p><b>12. Өглөө (09:00-аас өмнө) та хэр сэргэлэн байдаг вэ?</b></p>
             <div class="answers">
-                <label><input type="radio" name="q12" value="5"> Маш сэргэлэн  </label>
-                <label><input type="radio" name="q12" value="4"> Харьцангуй сэргэлэн</label>
-                <label><input type="radio" name="q12" value="3"> Тийм ч сэргэлэн биш </label>
-                <label><input type="radio" name="q12" value="2"> Огт сэргэлэн биш   </label>
+                <label><input type="radio" name="q12" value="5"> Маш сэргэг  </label>
+                <label><input type="radio" name="q12" value="4"> Харьцангуй сэргэг</label>
+                <label><input type="radio" name="q12" value="3"> Тийм ч сэргэг биш </label>
+                <label><input type="radio" name="q12" value="2"> Огт сэргэг биш   </label>
                 <label><input type="radio" name="q12" value="1"> Маш их нойрмог    </label>
               </div>
         </div>
@@ -188,10 +188,10 @@
         <div class="question">
             <p><b>13. Үдээс хойш (12:00 - 18:00) та хэр сэргэлэн байдаг вэ?</b></p>
             <div class="answers">
-                <label><input type="radio" name="q13" value="5"> Маш сэргэлэн       </label>
-                <label><input type="radio" name="q13" value="4"> Харьцангуй сэргэлэн </label>
-                <label><input type="radio" name="q13" value="3"> Тийм ч сэргэлэн биш </label>
-                <label><input type="radio" name="q13" value="2"> Огт сэргэлэн биш    </label>
+                <label><input type="radio" name="q13" value="5"> Маш сэргэг       </label>
+                <label><input type="radio" name="q13" value="4"> Харьцангуй сэргэг </label>
+                <label><input type="radio" name="q13" value="3"> Тийм ч сэргэг биш </label>
+                <label><input type="radio" name="q13" value="2"> Огт сэргэг биш    </label>
                 <label><input type="radio" name="q13" value="1"> Маш их нойрмог     </label>
               </div>
         </div>
@@ -199,10 +199,10 @@
         <div class="question">
             <p><b>14. Орой (18:00 - 00:00) та хэр сэргэлэн байдаг вэ?</b></p>
             <div class="answers">
-                <label><input type="radio" name="q14" value="5"> Маш сэргэлэн        </label>
-                <label><input type="radio" name="q14" value="4"> Харьцангуй сэргэлэн </label>
-                <label><input type="radio" name="q14" value="3"> Тийм ч сэргэлэн биш </label>
-                <label><input type="radio" name="q14" value="2"> Огт сэргэлэн биш    </label>
+                <label><input type="radio" name="q14" value="5"> Маш сэргэг        </label>
+                <label><input type="radio" name="q14" value="4"> Харьцангуй сэргэг </label>
+                <label><input type="radio" name="q14" value="3"> Тийм ч сэргэг биш </label>
+                <label><input type="radio" name="q14" value="2"> Огт сэргэг биш    </label>
                 <label><input type="radio" name="q14" value="1"> Маш их нойрмог      </label>
               </div>
         </div>
@@ -210,10 +210,10 @@
         <div class="question">
             <p><b>15. Шөнө дунд (00:00-аас хойш) та хэр сэргэлэн байдаг вэ?</b></p>
             <div class="answers">
-                <label><input type="radio" name="q15" value="5"> Маш сэргэлэн        </label>
-                <label><input type="radio" name="q15" value="4"> Харьцангуй сэргэлэн</label>
-                <label><input type="radio" name="q15" value="3"> Тийм ч сэргэлэн биш </label>
-                <label><input type="radio" name="q15" value="2"> Огт сэргэлэн биш    </label>
+                <label><input type="radio" name="q15" value="5"> Маш сэргэг        </label>
+                <label><input type="radio" name="q15" value="4"> Харьцангуй сэргэг</label>
+                <label><input type="radio" name="q15" value="3"> Тийм ч сэргэг биш </label>
+                <label><input type="radio" name="q15" value="2"> Огт сэргэг биш    </label>
                 <label><input type="radio" name="q15" value="1"> Маш их нойрмог      </label>
               </div>
         </div>
