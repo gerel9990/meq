@@ -208,7 +208,7 @@
         </div>
 
         <div class="question">
-            <p><b>15. Шөнө дунд (00:00-аас хойш) та хэр сэргэлэн байдаг вэ?</b></p>
+            <p><b>15. Шөнө дунд (00:00-с хойш) та хэр сэргэлэн байдаг вэ?</b></p>
             <div class="answers">
                 <label><input type="radio" name="q15" value="5"> Маш сэргэг        </label>
                 <label><input type="radio" name="q15" value="4"> Харьцангуй сэргэг</label>
