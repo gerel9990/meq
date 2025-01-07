@@ -164,7 +164,7 @@
         </div>
 
         <div class="question">
-            <p><b>11. Хэзээ таны бие хамгийн эрч хүчтэй байдаг вэ?</b></p>
+            <p><b>11. Өдрийн аль цагт таны нойр хамгийн их хүрдэг вэ?</b></p>
             <div class="answers">
                 <label><input type="radio" name="q11" value="5"> Орой (21:00 - 00:00)         </label>
                 <label><input type="radio" name="q11" value="4"> Оройн цагаар (18:00 - 21:00) </label>
@@ -175,7 +175,7 @@
         </div>
 
         <div class="question">
-            <p><b>12. Өглөө (09:00-аас өмнө) та хэр сэргэлэн байдаг вэ?</b></p>
+            <p><b>12. Өглөө (09:00-өөс өмнө) та хэр сэргэлэн байдаг вэ?</b></p>
             <div class="answers">
                 <label><input type="radio" name="q12" value="5"> Маш сэргэг  </label>
                 <label><input type="radio" name="q12" value="4"> Харьцангуй сэргэг</label>
@@ -186,7 +186,7 @@
         </div>
 
         <div class="question">
-            <p><b>13. Үдээс хойш (12:00 - 18:00) та хэр сэргэлэн байдаг вэ?</b></p>
+            <p><b>13. Үдээс хойш (12:00 - 18:00)та хэр сэргэлэн байдаг вэ?</b></p>
             <div class="answers">
                 <label><input type="radio" name="q13" value="5"> Маш сэргэг       </label>
                 <label><input type="radio" name="q13" value="4"> Харьцангуй сэргэг </label>
@@ -197,7 +197,7 @@
         </div>
 
         <div class="question">
-            <p><b>14. Орой (18:00 - 00:00) та хэр сэргэлэн байдаг вэ?</b></p>
+            <p><b>14. Орой (18:00 - 00:00)та хэр сэргэлэн байдаг вэ?</b></p>
             <div class="answers">
                 <label><input type="radio" name="q14" value="5"> Маш сэргэг        </label>
                 <label><input type="radio" name="q14" value="4"> Харьцангуй сэргэг </label>
@@ -219,7 +219,7 @@
         </div>
 
         <div class="question">
-            <p><b>16. Өглөөний үйл ажиллагаанд (09:00-аас өмнө) хэр их дуртай вэ?</b></p>
+            <p><b>16. Өглөөний үйл ажиллагаанд (09:00-өөс өмнө) хэр их дуртай вэ?</b></p>
             <div class="answers">
                 <label><input type="radio" name="q16" value="5"> Маш их        </label>
                 <label><input type="radio" name="q16" value="4"> Нэлээд дуртай  </label>
